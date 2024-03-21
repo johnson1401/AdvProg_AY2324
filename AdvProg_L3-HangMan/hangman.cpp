@@ -6,6 +6,7 @@ using std::vector;
 using std::ifstream;
 using std::domain_error;
 using std::cin;
+srand(time(NULL));
 
 /***
     Args:
